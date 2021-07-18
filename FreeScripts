@@ -1,1 +1,1 @@
-game.LocalPlayers.Player:kick("Script Has update")
+game.Players.localPlayer:Kick("Script has been Update Please wait!!")
